@@ -1,0 +1,6 @@
+# caso de que algo se cargue el entorno virtual 
+# o cualquier otro leve detalle similar
+# o ni idea ::
+
+sudo pip install python_telegram_bot ( sin esto no se quien te lo va a compilar)
+sudo pip install hupper (constant update )
